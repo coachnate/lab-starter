@@ -17,7 +17,7 @@ template:
 
 before:
 - type: createIssue        # the type of action, full list at https://lab.github.com/docs/actions/
-  title: Welcome to the party
+  title: Welcome
 
 # Steps for the course
 # A list of steps that take the learner through the course
